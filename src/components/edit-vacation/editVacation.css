@@ -1,0 +1,23 @@
+tr, td {
+    text-align: left;
+}
+table {
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+
+
+.divCard { 
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 15px;
+}
+
+.divForm {
+    width: 350px;
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 15px;
+}
